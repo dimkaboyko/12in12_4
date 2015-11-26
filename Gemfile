@@ -12,6 +12,7 @@ source 'https://rubygems.org'
  gem 'bootstrap-sass', '~> 3.3', '>= 3.3.5.1'
  gem 'simple_form', '~> 3.2' 
  gem 'devise', '~> 3.5', '>= 3.5.2' 
+ gem 'paperclip', '~> 4.3', '>= 4.3.2'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
