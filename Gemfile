@@ -13,7 +13,7 @@ source 'https://rubygems.org'
  gem 'simple_form', '~> 3.2' 
  gem 'devise', '~> 3.5', '>= 3.5.2' 
  gem 'paperclip', '~> 4.3', '>= 4.3.2'
-
+ gem 'masonry-rails', '~> 0.2.4'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
